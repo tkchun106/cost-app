@@ -1,0 +1,634 @@
+{
+    "Building costs": [{
+      "Type": "Factory, light industrial, including office accommodation (4.5m high)",
+      "info": {
+      "GIFA(m2)": 5000,
+      "Cost(\\u00a3)": 940
+    }}, {
+      "Type": "Warehouse including office accommodation (7.3m high)",
+      "info": {
+      "GIFA(m2)": 5000,
+      "Cost(\\u00a3)": 980
+    }}, {
+      "Type": "High bay warehouse including office accommodation (excludes racking), (21.0m high)",
+      "info": {
+      "GIFA(m2)": 10000,
+      "Cost(\\u00a3)": 1240
+    }}, {
+      "Type": "Distribution centre including office accommodation (15.0m high)",
+      "info": {
+      "GIFA(m2)": 71750,
+      "Cost(\\u00a3)": 660
+    }}, {
+      "Type": "Small start-up units (5.0m high)",
+      "info": {
+      "GIFA(m2)": 900,
+      "Cost(\\u00a3)": 1100
+    }}, {
+      "Type": "Office, low rise, non-air conditioned, basic specification",
+      "info": {
+      "GIFA(m2)": 3000,
+      "Cost(\\u00a3)": 1790
+    }}, {
+      "Type": "Office, low rise, non-air conditioned, higher specification",
+      "info": {
+      "GIFA(m2)": 3000,
+      "Cost(\\u00a3)": 2130
+    }}, {
+      "Type": "Office, low rise, air conditioned, basic specification",
+      "info": {
+      "GIFA(m2)": 3000,
+      "Cost(\\u00a3)": 1960
+    }}, {
+      "Type": "Office, low rise, air conditioned, higher specification",
+      "info": {
+      "GIFA(m2)": 3000,
+      "Cost(\\u00a3)": 2330
+    }}, {
+      "Type": "Office, high rise, non-air conditioned, basic specification",
+      "info": {
+      "GIFA(m2)": 10000,
+      "Cost(\\u00a3)": 1650
+    }}, {
+      "Type": "Office, high rise, non-air conditioned, higher specification",
+      "GIFA(m2)": 10000,
+      "Cost(\\u00a3)": 1960
+    }, {
+      "Type": "Office, high rise, air conditioned, basic specification",
+      "info": {
+      "GIFA(m2)": 10000,
+      "Cost(\\u00a3)": 1810
+    }}, {
+      "Type": "Office, high rise, air conditioned, higher specification",
+      "info": {
+      "GIFA(m2)": 10000,
+      "Cost(\\u00a3)": 2150
+    }}, {
+      "Type": "Shop unit (block of three small units)",
+      "info": {
+      "GIFA(m2)": 500,
+      "Cost(\\u00a3)": 1820
+    }}, {
+      "Type": "Shop unit with flats above",
+      "info": {
+      "GIFA(m2)": 1500,
+      "Cost(\\u00a3)": 1560
+    }}, {
+      "Type": "Shop unit with offices above",
+      "info": {
+      "GIFA(m2)": 1000,
+      "Cost(\\u00a3)": 1700
+    }}, {
+      "Type": "Retail warehouse",
+      "info": {
+      "GIFA(m2)": 5000,
+      "Cost(\\u00a3)": 980
+    }}, {
+      "Type": "General hospital",
+      "info": {
+      "GIFA(m2)": 10000,
+      "Cost(\\u00a3)": 2750
+    }}, {
+      "Type": "Psychiatric ward",
+      "info": {
+      "GIFA(m2)": 1500,
+      "Cost(\\u00a3)": 2970
+    }}, {
+      "Type": "Pathology lab",
+      "info": {
+      "GIFA(m2)": 1200,
+      "Cost(\\u00a3)": 3150
+    }}, {
+      "Type": "Health centre",
+      "info": {
+      "GIFA(m2)": 2000,
+      "Cost(\\u00a3)": 2260
+    }}, {
+      "Type": "Hospice",
+      "info": {
+      "GIFA(m2)": 3000,
+      "Cost(\\u00a3)": 2060
+    }}, {
+      "Type": "Nursing home",
+      "info": {
+      "GIFA(m2)": 2000,
+      "Cost(\\u00a3)": 2240
+    }}, {
+      "Type": "Home for the elderly",
+      "info": {
+      "GIFA(m2)": 2000,
+      "Cost(\\u00a3)": 2230
+    }}, {
+      "Type": "Home for the mentally ill",
+      "info": {
+      "GIFA(m2)": 5000,
+      "Cost(\\u00a3)": 2400
+    }}, {
+      "Type": "Restaurant",
+      "info": {
+      "GIFA(m2)": 700,
+      "Cost(\\u00a3)": 2100
+    }}, {
+      "Type": "Community centre",
+      "info": {
+      "GIFA(m2)": 500,
+      "Cost(\\u00a3)": 2360
+    }}, {
+      "Type": "Leisure centre with swimming pool",
+      "info": {
+      "GIFA(m2)": 6000,
+      "Cost(\\u00a3)": 2660
+    }}, {
+      "Type": "Sports hall with swimming pool",
+      "info": {
+      "GIFA(m2)": 9000,
+      "Cost(\\u00a3)": 2720
+    }}, {
+      "Type": "Sports changing pavilion",
+      "info": {
+      "GIFA(m2)": 200,
+      "Cost(\\u00a3)": 1870
+    }}, {
+      "Type": "Library",
+      "info": {
+      "GIFA(m2)": 700,
+      "Cost(\\u00a3)": 2020
+    }}, {
+      "Type": "Youth club",
+      "info": {
+      "GIFA(m2)": 800,
+      "Cost(\\u00a3)": 1960
+    }}, {
+      "Type": "Nursery school",
+      "info": {
+      "GIFA(m2)": 250,
+      "Cost(\\u00a3)": 2830
+    }}, {
+      "Type": "Primary school",
+      "info": {
+      "GIFA(m2)": 2000,
+      "Cost(\\u00a3)": 2160
+    }}, {
+      "Type": "Secondary school",
+      "info": {
+      "GIFA(m2)": 4000,
+      "Cost(\\u00a3)": 1940
+    }}, {
+      "Type": "College, non-air conditioned",
+      "info": {
+      "GIFA(m2)": 5000,
+      "Cost(\\u00a3)": 1790
+    }}, {
+      "Type": "College, air conditioned",
+      "info": {
+      "GIFA(m2)": 5000,
+      "Cost(\\u00a3)": 1960
+    }}, {
+      "Type": "Estate housing",
+      "info": {
+      "GIFA(m2)": 800,
+      "Cost(\\u00a3)": 1230
+    }}, {
+      "Type": "Detached house",
+      "info": {
+      "GIFA(m2)": 200,
+      "Cost(\\u00a3)": 1640
+    }}, {
+      "Type": "Apartment block",
+      "info": {
+      "GIFA(m2)": 7000,
+      "Cost(\\u00a3)": 1950
+    }}, {
+      "Type": "Hall of residence",
+      "info": {
+      "GIFA(m2)": 1500,
+      "Cost(\\u00a3)": 2320
+    }}, {
+      "Type": "Student residence",
+      "info": {
+      "GIFA(m2)": 8000,
+      "Cost(\\u00a3)": 1910
+    }}, {
+      "Type": "Sheltered housing",
+      "info": {
+      "GIFA(m2)": 3000,
+      "Cost(\\u00a3)": 2110
+    }}, {
+      "Type": "Hotel, air conditioned",
+      "info": {
+      "GIFA(m2)": 5000,
+      "Cost(\\u00a3)": 2530
+    }}],
+    "Tender price": [{
+      "Year": "2000q1",
+      "Tender price index": 100,
+      "Building cost index": 100
+    }, {
+      "Year": "2000q2",
+      "Tender price index": 101,
+      "Building cost index": 100
+    }, {
+      "Year": "2000q3",
+      "Tender price index": 102,
+      "Building cost index": 102
+    }, {
+      "Year": "2000q4",
+      "Tender price index": 103,
+      "Building cost index": 103
+    }, {
+      "Year": "2001q1",
+      "Tender price index": 103,
+      "Building cost index": 104
+    }, {
+      "Year": "2001q2",
+      "Tender price index": 105,
+      "Building cost index": 106
+    }, {
+      "Year": "2001q3",
+      "Tender price index": 107,
+      "Building cost index": 107
+    }, {
+      "Year": "2001q4",
+      "Tender price index": 108,
+      "Building cost index": 108
+    }, {
+      "Year": "2002q1",
+      "Tender price index": 110,
+      "Building cost index": 111
+    }, {
+      "Year": "2002q2",
+      "Tender price index": 113,
+      "Building cost index": 114
+    }, {
+      "Year": "2002q3",
+      "Tender price index": 114,
+      "Building cost index": 115
+    }, {
+      "Year": "2002q4",
+      "Tender price index": 117,
+      "Building cost index": 116
+    }, {
+      "Year": "2003q1",
+      "Tender price index": 118,
+      "Building cost index": 118
+    }, {
+      "Year": "2003q2",
+      "Tender price index": 119,
+      "Building cost index": 119
+    }, {
+      "Year": "2003q3",
+      "Tender price index": 121,
+      "Building cost index": 120
+    }, {
+      "Year": "2003q4",
+      "Tender price index": 122,
+      "Building cost index": 122
+    }, {
+      "Year": "2004q1",
+      "Tender price index": 123,
+      "Building cost index": 123
+    }, {
+      "Year": "2004q2",
+      "Tender price index": 124,
+      "Building cost index": 123
+    }, {
+      "Year": "2004q3",
+      "Tender price index": 126,
+      "Building cost index": 124
+    }, {
+      "Year": "2004q4",
+      "Tender price index": 129,
+      "Building cost index": 126
+    }, {
+      "Year": "2005q1",
+      "Tender price index": 131,
+      "Building cost index": 127
+    }, {
+      "Year": "2005q2",
+      "Tender price index": 134,
+      "Building cost index": 128
+    }, {
+      "Year": "2005q3",
+      "Tender price index": 135,
+      "Building cost index": 131
+    }, {
+      "Year": "2005q4",
+      "Tender price index": 138,
+      "Building cost index": 134
+    }, {
+      "Year": "2006q1",
+      "Tender price index": 140,
+      "Building cost index": 136
+    }, {
+      "Year": "2006q2",
+      "Tender price index": 142,
+      "Building cost index": 138
+    }, {
+      "Year": "2006q3",
+      "Tender price index": 144,
+      "Building cost index": 139
+    }, {
+      "Year": "2006q4",
+      "Tender price index": 145,
+      "Building cost index": 140
+    }, {
+      "Year": "2007q1",
+      "Tender price index": 147,
+      "Building cost index": 142
+    }, {
+      "Year": "2007q2",
+      "Tender price index": 150,
+      "Building cost index": 143
+    }, {
+      "Year": "2007q3",
+      "Tender price index": 151,
+      "Building cost index": 146
+    }, {
+      "Year": "2007q4",
+      "Tender price index": 152,
+      "Building cost index": 147
+    }, {
+      "Year": "2008q1",
+      "Tender price index": 152,
+      "Building cost index": 148
+    }, {
+      "Year": "2008q2",
+      "Tender price index": 152,
+      "Building cost index": 150
+    }, {
+      "Year": "2008q3",
+      "Tender price index": 153,
+      "Building cost index": 151
+    }, {
+      "Year": "2008q4",
+      "Tender price index": 153,
+      "Building cost index": 152
+    }, {
+      "Year": "2009q1",
+      "Tender price index": 151,
+      "Building cost index": 152
+    }, {
+      "Year": "2009q2",
+      "Tender price index": 149,
+      "Building cost index": 152
+    }, {
+      "Year": "2009q3",
+      "Tender price index": 146,
+      "Building cost index": 151
+    }, {
+      "Year": "2009q4",
+      "Tender price index": 144,
+      "Building cost index": 150
+    }, {
+      "Year": "2010q1",
+      "Tender price index": 142,
+      "Building cost index": 148
+    }, {
+      "Year": "2010q2",
+      "Tender price index": 141,
+      "Building cost index": 148
+    }, {
+      "Year": "2010q3",
+      "Tender price index": 140,
+      "Building cost index": 148
+    }, {
+      "Year": "2010q4",
+      "Tender price index": 139,
+      "Building cost index": 148
+    }, {
+      "Year": "2011q1",
+      "Tender price index": 139,
+      "Building cost index": 148
+    }, {
+      "Year": "2011q2",
+      "Tender price index": 138,
+      "Building cost index": 150
+    }, {
+      "Year": "2011q3",
+      "Tender price index": 138,
+      "Building cost index": 151
+    }, {
+      "Year": "2011q4",
+      "Tender price index": 137,
+      "Building cost index": 152
+    }, {
+      "Year": "2012q1",
+      "Tender price index": 137,
+      "Building cost index": 154
+    }, {
+      "Year": "2012q2",
+      "Tender price index": 137,
+      "Building cost index": 154
+    }, {
+      "Year": "2012q3",
+      "Tender price index": 137,
+      "Building cost index": 154
+    }, {
+      "Year": "2012q4",
+      "Tender price index": 136,
+      "Building cost index": 155
+    }, {
+      "Year": "2013q1",
+      "Tender price index": 136,
+      "Building cost index": 156
+    }, {
+      "Year": "2013q2",
+      "Tender price index": 136,
+      "Building cost index": 158
+    }, {
+      "Year": "2013q3",
+      "Tender price index": 136,
+      "Building cost index": 158
+    }, {
+      "Year": "2013q4",
+      "Tender price index": 137,
+      "Building cost index": 158
+    }, {
+      "Year": "2014q1",
+      "Tender price index": 138,
+      "Building cost index": 159
+    }, {
+      "Year": "2014q2",
+      "Tender price index": 139,
+      "Building cost index": 159
+    }, {
+      "Year": "2014q3",
+      "Tender price index": 141,
+      "Building cost index": 160
+    }, {
+      "Year": "2014q4",
+      "Tender price index": 144,
+      "Building cost index": 162
+    }, {
+      "Year": "2015q1",
+      "Tender price index": 146,
+      "Building cost index": 162
+    }, {
+      "Year": "2015q2",
+      "Tender price index": 149,
+      "Building cost index": 162
+    }, {
+      "Year": "2015q3",
+      "Tender price index": 152,
+      "Building cost index": 163
+    }, {
+      "Year": "2015q4",
+      "Tender price index": 155,
+      "Building cost index": 163
+    }, {
+      "Year": "2016q1",
+      "Tender price index": 161,
+      "Building cost index": 163
+    }, {
+      "Year": "2016q2",
+      "Tender price index": 166,
+      "Building cost index": 163
+    }, {
+      "Year": "2016q3",
+      "Tender price index": 170,
+      "Building cost index": 164
+    }, {
+      "Year": "2016q4",
+      "Tender price index": 172,
+      "Building cost index": 165
+    }, {
+      "Year": "2017q1",
+      "Tender price index": 174,
+      "Building cost index": 167
+    }, {
+      "Year": "2017q2",
+      "Tender price index": 175,
+      "Building cost index": 168
+    }, {
+      "Year": "2017q3",
+      "Tender price index": 176,
+      "Building cost index": 170
+    }, {
+      "Year": "2017q4",
+      "Tender price index": 176,
+      "Building cost index": 171
+    }, {
+      "Year": "2018q1",
+      "Tender price index": 177,
+      "Building cost index": 172
+    }, {
+      "Year": "2018q2",
+      "Tender price index": 178,
+      "Building cost index": 175
+    }, {
+      "Year": "2018q3",
+      "Tender price index": 179,
+      "Building cost index": 178
+    }, {
+      "Year": "2018q4",
+      "Tender price index": 181,
+      "Building cost index": 179
+    }, {
+      "Year": "2019q1",
+      "Tender price index": 182,
+      "Building cost index": 180
+    }, {
+      "Year": "2019q2",
+      "Tender price index": 184,
+      "Building cost index": 182
+    }, {
+      "Year": "2019q3",
+      "Tender price index": 186,
+      "Building cost index": 183
+    }, {
+      "Year": "2019q4",
+      "Tender price index": 187,
+      "Building cost index": 184
+    }, {
+      "Year": "2020q1",
+      "Tender price index": 188,
+      "Building cost index": 187
+    }, {
+      "Year": "2020q2",
+      "Tender price index": 189,
+      "Building cost index": 189
+    }, {
+      "Year": "2020q3",
+      "Tender price index": 190,
+      "Building cost index": 190
+    }, {
+      "Year": "2020q4",
+      "Tender price index": 191,
+      "Building cost index": 191
+    }, {
+      "Year": "2021q1",
+      "Tender price index": 192,
+      "Building cost index": 194
+    }, {
+      "Year": "2021q2",
+      "Tender price index": 192,
+      "Building cost index": 195
+    }, {
+      "Year": "2021q3",
+      "Tender price index": 193,
+      "Building cost index": 197
+    }, {
+      "Year": "2021q4",
+      "Tender price index": 194,
+      "Building cost index": 198
+    }, {
+      "Year": "2022q1",
+      "Tender price index": 192,
+      "Building cost index": 199
+    }, {
+      "Year": "2022q2",
+      "Tender price index": 197,
+      "Building cost index": 1201
+    }, {
+      "Year": "2022q3",
+      "Tender price index": 198,
+      "Building cost index": 202
+    }, {
+      "Year": "2022q4",
+      "Tender price index": 199,
+      "Building cost index": 203
+    }], 
+    "Regional variations": [{
+      "Region": "North East",
+      "Adjustment factor": 94
+    }, {
+      "Region": "North West",
+      "Adjustment factor": 98
+    }, {
+      "Region": "Yorkshire and Humberside",
+      "Adjustment factor": 96
+    }, {
+      "Region": "West Midlands",
+      "Adjustment factor": 97
+    }, {
+      "Region": "East Midlands",
+      "Adjustment factor": 99
+    }, {
+      "Region": "East Anglia",
+      "Adjustment factor": 104
+    }, {
+      "Region": "South West",
+      "Adjustment factor": 99
+    }, {
+      "Region": "South East",
+      "Adjustment factor": 107
+    }, {
+      "Region": "Outer London",
+      "Adjustment factor": 111
+    }, {
+      "Region": "Inner London",
+      "Adjustment factor": 118
+    }, {
+      "Region": "Wales",
+      "Adjustment factor": 95
+    }, {
+      "Region": "Scotland",
+      "Adjustment factor": 97
+    }, {
+      "Region": "Northern Ireland",
+      "Adjustment factor": 85
+    }, {
+      "Region": "UK National Average",
+      "Adjustment factor": 100
+    }]
+  }
